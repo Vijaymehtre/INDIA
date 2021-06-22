@@ -1,0 +1,30 @@
+S.No	States Name	Capital	Founded Date
+1	Andhra Pradesh	Amaravati	1 Nov, 1956
+2	Arunachal Pradesh	Itanagar	20 Feb, 1987
+3	Assam	Dispur	26 Jan, 1950
+4	Bihar	Patna	26 Jan, 1950
+5	Chhattisgarh	Raipur	1 Nov, 2000
+6	Goa	Panaji	30 May, 1987
+7	Gujarat	Gandhinagar	1 May, 1960
+8	Haryana	Chandigarh	1 Nov, 1966
+9	Himachal Pradesh	Shimla	25 Jan, 1971
+10	Jharkhand	Ranchi	15 Nov, 2000
+11	Karnataka	Bengaluru	1 Nov, 1956
+12	Kerala	Thiruvananthapuram	1 Nov, 1956
+13	Madhya Pradesh	Bhopal	1 Nov, 1956
+14	Maharashtra	Mumbai	1 May, 1960
+15	Manipur	Imphal	21 Jan, 1972
+16	Meghalaya	Shillong	21 Jan, 1972
+17	Mizoram	Aizawl	20 Feb, 1987
+18	Nagaland	Kohima	1 Dec, 1963
+19	Odisha	Bhubaneswar	26 Jan, 1950
+20	Punjab	Chandigarh	1 Nov, 1956
+21	Rajasthan	Jaipur	1 Nov, 1956
+22	Sikkim	Gangtok	16 May, 1975
+23	Tamil Nadu	Chennai	26 Jan, 1950
+24	Telangana	Hyderabad	2 Jun, 2014
+25	Tripura	Agartala	21 Jan, 1972
+26	Uttar Pradesh	Lucknow	26 Jan, 1950
+27	Uttarakhand	Dehradun (Winter)
+Gairsain (Summer)	9 Nov, 2000
+28	West Bengal	Kolkata	1 Nov, 1956
