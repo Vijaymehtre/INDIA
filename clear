@@ -1,0 +1,80 @@
+[33mcommit a40fa7d7ae7ce180f45ab3180305b36316e9eaf4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/register[m[33m, [m[1;32mregister[m[33m)[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 11:42:18 2021 +0530
+
+    sign up and sign in added
+
+[33mcommit a73fa1ef9593182c1c1511d57198b242da18480a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 439a492 db71ffe
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 11:23:57 2021 +0530
+
+    Merge branch 'prod'
+
+[33mcommit db71ffe66000ca603a24c697e404a0187f23590f[m[33m ([m[1;31morigin/prod[m[33m, [m[1;32mprod[m[33m)[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 11:10:59 2021 +0530
+
+    appdata code added to prod
+
+[33mcommit 439a4928add8186b3eb72ff56fd5f52c3888111d[m
+Merge: d90a6df 4f65f59
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 10:57:24 2021 +0530
+
+    Merge branch 'dev'
+
+[33mcommit 4f65f59f310491f7c3418cc6c8f485d194238ed0[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 10:53:35 2021 +0530
+
+    merger
+
+[33mcommit d90a6dfd57f539d524d90fb34fc5bce3558deb98[m
+Merge: afed75e 6c78024
+Author: Vijaymehtre <78697166+Vijaymehtre@users.noreply.github.com>
+Date:   Mon Jul 5 22:20:09 2021 -0700
+
+    Merge pull request #2 from Vijaymehtre/dev
+    
+    Dev
+
+[33mcommit 6c78024d70db2c27aa09fc96630b419482af0cab[m
+Merge: da6829b afed75e
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 10:48:02 2021 +0530
+
+    Merge branch 'dev' of https://github.com/Vijaymehtre/INDIA into dev
+
+[33mcommit da6829b6296b58118c222184a62b8ff9425967b9[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 10:39:10 2021 +0530
+
+    added file to dev
+
+[33mcommit afed75e1594c6e451075ccfb63141ec5df6e33a8[m
+Merge: a31ec23 6e85218
+Author: Vijaymehtre <78697166+Vijaymehtre@users.noreply.github.com>
+Date:   Mon Jul 5 22:03:21 2021 -0700
+
+    Merge pull request #1 from Vijaymehtre/prod
+    
+    adding one file and folder
+
+[33mcommit 6e85218e4957e1f30c313224ba026688453ce7e0[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jul 6 10:16:23 2021 +0530
+
+    adding one file and folder
+
+[33mcommit a31ec239be1f579a05a22cbe931545a18a90f68f[m
+Author: Vijaymehtre <78697166+Vijaymehtre@users.noreply.github.com>
+Date:   Tue Jun 22 09:54:20 2021 +0530
+
+    Update delhi
+
+[33mcommit 834fafca419608df2d2856c285847547c935874f[m
+Author: vijay <vijaykcloudengg@gmail.com>
+Date:   Tue Jun 22 04:22:04 2021 +0000
+
+    addded capitals & states
